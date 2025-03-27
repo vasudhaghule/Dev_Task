@@ -8,12 +8,7 @@ This is a modern React application built with React 19 and styled using Tailwind
 - Tailwind CSS for styling
 - React Router for navigation
 - ESLint for code quality
-- Netlify deployment configuration
 
-## Prerequisites
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
 
 ## Installation
 
